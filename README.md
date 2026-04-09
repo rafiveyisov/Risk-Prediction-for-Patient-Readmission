@@ -58,7 +58,6 @@ To ensure the model is clinically valid, the following steps were taken:
    ```bash
    git clone [https://github.com/yourusername/hospital-readmission-xai.git](https://github.com/yourusername/hospital-readmission-xai.git)
 
-
 2.  Install dependencies:
     ```bash
     pip install -r requirements.txt
